@@ -1,0 +1,1 @@
+執行server程式，須先安裝node-bluetooth-serial-port-master套件。
